@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/coffeecCapSook/static/js/main.5db48c1d.js",
+    "main.js": "/coffeecCapSook/static/js/main.8bd9deeb.js",
     "static/media/homeBg.png": "/coffeecCapSook/static/media/homeBg.3c01dfb14a31f9b38fa7.png",
     "static/media/BMHANNAAir_ttf.ttf": "/coffeecCapSook/static/media/BMHANNAAir_ttf.d0c38d74f11fd837be79.ttf",
     "static/media/130.png": "/coffeecCapSook/static/media/130.ee175b6c5f5fcbe56926.png",
@@ -148,9 +148,9 @@
     "static/media/134.png": "/coffeecCapSook/static/media/134.c1a9a53f5db9551cad41.png",
     "static/media/133.png": "/coffeecCapSook/static/media/133.ff49165be8fc72710e3a.png",
     "index.html": "/coffeecCapSook/index.html",
-    "main.5db48c1d.js.map": "/coffeecCapSook/static/js/main.5db48c1d.js.map"
+    "main.8bd9deeb.js.map": "/coffeecCapSook/static/js/main.8bd9deeb.js.map"
   },
   "entrypoints": [
-    "static/js/main.5db48c1d.js"
+    "static/js/main.8bd9deeb.js"
   ]
 }
