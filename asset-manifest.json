@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.js": "/coffeecCapSook/static/js/main.8daaf23b.js",
+    "main.js": "/coffeecCapSook/static/js/main.290f0729.js",
     "static/media/homeBg.png": "/coffeecCapSook/static/media/homeBg.3c01dfb14a31f9b38fa7.png",
     "static/media/BMHANNAAir_ttf.ttf": "/coffeecCapSook/static/media/BMHANNAAir_ttf.d0c38d74f11fd837be79.ttf",
     "static/media/130.png": "/coffeecCapSook/static/media/130.ee175b6c5f5fcbe56926.png",
     "static/media/132.png": "/coffeecCapSook/static/media/132.ffd5cf4c8d0f54347c83.png",
     "static/media/131.png": "/coffeecCapSook/static/media/131.45086952d920c710a38e.png",
+    "static/media/MyList.jpg": "/coffeecCapSook/static/media/MyList.7822fd6a86b8d0dcd838.jpg",
     "static/media/coffee.jpg": "/coffeecCapSook/static/media/coffee.f8101f4884a65e380878.jpg",
     "static/media/spinner.gif": "/coffeecCapSook/static/media/spinner.c0a8560a73f9e734f274.gif",
     "static/media/117.png": "/coffeecCapSook/static/media/117.c37846ae4e57d98d7ab6.png",
@@ -145,12 +146,14 @@
     "static/media/86.png": "/coffeecCapSook/static/media/86.1e56b506e0483763281b.png",
     "static/media/18.png": "/coffeecCapSook/static/media/18.fe79ece79a9598fcd02e.png",
     "static/media/42.png": "/coffeecCapSook/static/media/42.4405129eaeeac1d1a3ab.png",
+    "static/media/fullHeart.png": "/coffeecCapSook/static/media/fullHeart.59848f4811a23aa759c3.png",
     "static/media/134.png": "/coffeecCapSook/static/media/134.c1a9a53f5db9551cad41.png",
+    "static/media/emptyHeart.png": "/coffeecCapSook/static/media/emptyHeart.a882063e838d335ed3fb.png",
     "static/media/133.png": "/coffeecCapSook/static/media/133.ff49165be8fc72710e3a.png",
     "index.html": "/coffeecCapSook/index.html",
-    "main.8daaf23b.js.map": "/coffeecCapSook/static/js/main.8daaf23b.js.map"
+    "main.290f0729.js.map": "/coffeecCapSook/static/js/main.290f0729.js.map"
   },
   "entrypoints": [
-    "static/js/main.8daaf23b.js"
+    "static/js/main.290f0729.js"
   ]
 }
